@@ -18,6 +18,6 @@ the column width in order to determine the final message. To see a good
 document on cracking, reference
 http://www.nku.edu/~christensen/section%209%20transposition.pdf
 
-What to Distribute: ./src/ciphertext.txt
+What to Distribute: ./dist/ciphertext.txt
 
 Flag: MCA-4445532E (Points to DES)
